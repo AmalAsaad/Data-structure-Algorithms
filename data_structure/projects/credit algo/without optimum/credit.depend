@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513873838 source:c:\users\ah\desktop\mycode(ds)\shahera\credit\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
